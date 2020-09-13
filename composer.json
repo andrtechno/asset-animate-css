@@ -1,0 +1,23 @@
+{
+    "name": "panix/asset-animate-css",
+    "description": "Asset animate css",
+    "keywords": ["extension", "animate", "css"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PIXELION CMS",
+            "email": "dev@pixelion.com.ua",
+            "homepage": "https://pixelion.com.ua"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "npm-asset/guzzle": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "panix\\asset\\animateCss\\": ""
+        }
+    }
+}
