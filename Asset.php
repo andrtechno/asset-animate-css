@@ -1,6 +1,6 @@
 <?php
 
-namespace panix\assets\animateCss;
+namespace panix\asset\animateCss;
 
 use yii\web\AssetBundle;
 
