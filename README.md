@@ -10,7 +10,7 @@ Animate CSS library for Yii2
 
 Introduction
 ------------
-[animate css](https://animate.style/ "https://animate.style") library, we still received requests to have
+[animate css](https://animate.style/ "https://animate.style")
 
 ## Installation
 
