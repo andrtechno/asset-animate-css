@@ -13,7 +13,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "npm-asset/animate.css": "v4.*"
+        "npm-asset/animate.css": "^v4"
     },
     "autoload": {
         "psr-4": {
