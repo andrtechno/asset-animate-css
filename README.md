@@ -10,8 +10,7 @@ Animate CSS library for Yii2
 
 Introduction
 ------------
-Even though we already created an extension to display maps that are away from Google's policies and works with
-[LeafLetJs](http://leafletjs.com/ "http://leafletjs.com/") library, we still received requests to have
+[animate css](https://animate.style/ "https://animate.style") library, we still received requests to have
 
 ## Installation
 

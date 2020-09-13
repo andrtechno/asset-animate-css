@@ -13,7 +13,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "npm-asset/guzzle": "6.*"
+        "npm-asset/animate.css": "v4.*"
     },
     "autoload": {
         "psr-4": {
