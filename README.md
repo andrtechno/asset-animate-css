@@ -19,7 +19,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require "panix/asset-animate-css" "*"
+composer require "panix/asset-animate-css"
 ```
 or add
 
