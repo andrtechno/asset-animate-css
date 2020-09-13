@@ -32,5 +32,5 @@ to the require section of your application's `composer.json` file.
 ## Usage
 
 ```php
-AnimateCssAsset::register($view);
+\panix\asset\animateCss\Asset::register($view);
 ```

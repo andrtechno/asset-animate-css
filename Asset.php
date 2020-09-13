@@ -5,9 +5,10 @@ namespace panix\assets\animateCss;
 use yii\web\AssetBundle;
 
 /**
- * Class AnimateCssAsset
+ * Class Asset
+ * @package panix\asset\animateCss
  */
-class AnimateCssAsset extends AssetBundle
+class Asset extends AssetBundle
 {
 
     public $sourcePath = '@npm/animate.css';
