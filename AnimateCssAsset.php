@@ -2,7 +2,7 @@
 
 namespace panix\assets\animateCss;
 
-use panix\engine\web\AssetBundle;
+use yii\web\AssetBundle;
 
 /**
  * Class AnimateCssAsset
@@ -10,13 +10,10 @@ use panix\engine\web\AssetBundle;
 class AnimateCssAsset extends AssetBundle
 {
 
-    public $sourcePath = __DIR__ . '/assets';
+    public $sourcePath = '@npm/animate.css';
 
-    public $js = [
-        'js/clipboard/clipboard.min.js',
-    ];
-    public $depends = [
-        'yii\web\JqueryAsset',
+    public $css = [
+        'animate.min.css',
     ];
 
 }
